@@ -1,1 +1,4 @@
 node_modules
+.idea
+Csharp/aiDoodle/bin/Debug/net9.0
+Csharp/aiDoodle/obj
